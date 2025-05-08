@@ -129,3 +129,22 @@ I am particularly interested in computational biology, statistical learning, and
 | 🗺️ Send-Off Map App | 指定住所から送迎ルートを自動で決定し、Google Mapsに表示 | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=flat&logo=awsamplify&logoColor=white) | ✅ | [GitHub](https://github.com/RentoYabuki06/sendoff-map-app) |
 | 🤖 Discord Bot | Discordで動作する自作Bot | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Discord](https://img.shields.io/badge/Discord.js-5865F2?style=flat&logo=discord&logoColor=white) | ✅ | [GitHub](https://github.com/RentoYabuki06/discord-bot) |
 | 📊 Word2Vec Reimplementation | Word2Vecを論文ベースで再実装し語彙意味解析を学ぶ | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) | 📌 | [GitHub](https://github.com/RentoYabuki06/word2vec-reimplementation) |
+
+# 🔥 Status
+![Rento Yabuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=RentoYabuki06&show_icons=true&theme=default&hide=contribs&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RentoYabuki06&layout=compact&langs_count=6&hide=html,css)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RentoYabuki06&theme=default)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RentoYabuki06&theme=default)
+![GitHub Metrics](https://metrics.lecoq.io/RentoYabuki06?template=classic&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FTokyo)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RentoYabuki06&theme=default&no-frame=true&row=1&column=7&margin-w=5&margin-h=5&no-bg=true)
+![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=RentoYabuki06&theme=default&hide_border=true&area=true)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/RentoYabuki06/RentoYabuki06?style=flat&logo=github&logoColor=white)
+![GitHub Followers](https://img.shields.io/github/followers/RentoYabuki06?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/RentoYabuki06?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/RentoYabuki06?style=social)
+![GitHub Issues](https://img.shields.io/github/issues/RentoYabuki06/RentoYabuki06?style=social)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/RentoYabuki06/RentoYabuki06?style=social)
+![GitHub Commits](https://img.shields.io/github/commit-activity/m/RentoYabuki06/RentoYabuki06?style=social)
+![GitHub Commits](https://img.shields.io/github/commit-activity/y/RentoYabuki06/RentoYabuki06?style=social)
