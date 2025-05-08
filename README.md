@@ -104,9 +104,12 @@ I am particularly interested in computational biology, statistical learning, and
 
 | プロジェクト名 | 説明 | 技術スタック | Progress | リンク |
 |----------------|------|-----------------------------|----------|--------|
+| 🏊‍♂️ Piscine | 42入学試験 | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-89e051?style=flat&logo=gnu-bash&logoColor=black) | ✅ | [GitHub](https://github.com/RentoYabuki06/Piscine) |
 | 🧱 Libft | C標準関数の再実装ライブラリ | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) | ✅ | [GitHub](https://github.com/RentoYabuki06/Libft_standard_C_functions) |
 | 📇 ft_printf | printf関数の自作実装 | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) | ✅ | [GitHub](https://github.com/RentoYabuki06/simple_printf_function) |
 | 🔌 get_next_line | ファイルから1行ずつ読み取る関数の実装 | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) | ✅ | [GitHub](https://github.com/RentoYabuki06/get_next_line) |
+| 📡 minitalk | シグナルを用いたプロセス間通信の実装 | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![Signals](https://img.shields.io/badge/Signals-FD5750?style=flat) | ✅ | [GitHub](https://github.com/RentoYabuki06/minitalk) |
+| 📊 FdF | 3Dワイヤーフレームレンダリングプログラム | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![Graphics](https://img.shields.io/badge/Graphics-000000?style=flat&logo=openGL&logoColor=white) | ✅ | [GitHub](https://github.com/RentoYabuki06/FdF) |
 | 🔃 push_swap | スタックソート問題の最適解探索 | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) | ✅ | [GitHub](https://github.com/RentoYabuki06/42tokyo_push_swap_opt) |
 | 🐚 minishell | 自作のbash風シェル | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-89e051?style=flat&logo=gnu-bash&logoColor=black) | ✅ | [GitHub](https://github.com/RentoYabuki06/bash_like_siimple_shell) |
 | 🌍 cub3D | Raycastingによる3Dゲームの実装 | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![Graphics](https://img.shields.io/badge/Graphics-000000?style=flat&logo=openGL&logoColor=white) | ✅ | [GitHub](https://github.com/karen-kac/cub3D) |
