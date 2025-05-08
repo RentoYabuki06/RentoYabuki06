@@ -82,9 +82,19 @@ I am particularly interested in computational biology, statistical learning, and
 - [Website / CV](https://rentoyabuki06.github.io/cv/)
 
 
-# 🏫 My 42Tokyo Projects
 
-## C Projects
+# 🚀 Personal Projects
+
+| プロジェクト名 | 説明 | 技術スタック | Progress | リンク |
+|----------------|------|-----------------------------|----------|--------|
+| 🗺️ Send-Off Map App | 指定住所から送迎ルートを自動で決定し、Google Mapsに表示 | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=flat&logo=awsamplify&logoColor=white) | ✅ | [GitHub](https://github.com/RentoYabuki06/sendoff-map-app) |
+| 🤖 Discord Bot | Discordで動作する自作Bot | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Discord](https://img.shields.io/badge/Discord.js-5865F2?style=flat&logo=discord&logoColor=white) | ✅ | [GitHub](https://github.com/RentoYabuki06/discord-bot) |
+| 📊 Word2Vec Reimplementation | Word2Vecを論文ベースで再実装し語彙意味解析を学ぶ | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) | 📌 | [GitHub](https://github.com/RentoYabuki06/word2vec-reimplementation) |
+
+
+# 🏫 42Tokyo Projects
+
+## 42tokyo - C Projects
 
 | プロジェクト名 | 説明 | 技術スタック | Progress | リンク |
 |----------------|------|-----------------------------|----------|--------|
@@ -96,7 +106,7 @@ I am particularly interested in computational biology, statistical learning, and
 | 🌍 cub3D | Raycastingによる3Dゲームの実装 | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![Graphics](https://img.shields.io/badge/Graphics-000000?style=flat&logo=openGL&logoColor=white) | ✅ | [GitHub](https://github.com/karen-kac/cub3D) |
 | 📶 Philosophers | マルチスレッドと排他制御の演習 | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![Threads](https://img.shields.io/badge/Pthreads-555555?style=flat) | ✅ | [Github](https://github.com/RentoYabuki06/philosopher_problem) |
 
-## 🧠 C++ Modules
+## 🧠 42tokyo - C++ Projects
 
 | モジュール | 内容 | 技術スタック | Progress | GitHubリンク |
 |-----------|------|-----------------------------|----------|--------------|
@@ -111,7 +121,7 @@ I am particularly interested in computational biology, statistical learning, and
 | 🧠 CPP Module 08 | コンテナとイテレータ | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) | 📌 | [GitHub](https://github.com/RentoYabuki06/cpp_module_08) |
 | 🧠 CPP Module 09 | 多相性の実践と汎用性の高い設計 | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) | 📌 | [GitHub](https://github.com/RentoYabuki06/cpp_module_09) |
 
-## 📦 Other Projects
+## 📦 42tokyo - Other Projects
 
 | プロジェクト名 | 説明 | 技術スタック | Progress | GitHubリンク |
 |----------------|------|-----------------------------|----------|--------------|
@@ -122,16 +132,3 @@ I am particularly interested in computational biology, statistical learning, and
 | 🧮 ft_irc | IRCサーバの実装 | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Sockets](https://img.shields.io/badge/Sockets-808080?style=flat) | 📌 | Coming soon... |
 | 🔐 ft_transcendence | フルスタックWebアプリ開発 (卒業制作) | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![TypeORM](https://img.shields.io/badge/TypeORM-6364FF?style=flat) ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat) | 📌 | Coming soon... |
 
-
-## 🚀 Personal Projects
-
-| プロジェクト名 | 説明 | 技術スタック | Progress | リンク |
-|----------------|------|-----------------------------|----------|--------|
-| 🗺️ Send-Off Map App | 指定住所から送迎ルートを自動で決定し、Google Mapsに表示 | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=flat&logo=awsamplify&logoColor=white) | ✅ | [GitHub](https://github.com/RentoYabuki06/sendoff-map-app) |
-| 🤖 Discord Bot | Discordで動作する自作Bot | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Discord](https://img.shields.io/badge/Discord.js-5865F2?style=flat&logo=discord&logoColor=white) | ✅ | [GitHub](https://github.com/RentoYabuki06/discord-bot) |
-| 📊 Word2Vec Reimplementation | Word2Vecを論文ベースで再実装し語彙意味解析を学ぶ | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) | 📌 | [GitHub](https://github.com/RentoYabuki06/word2vec-reimplementation) |
-
-# 🔥 Status
-![Rento Yabuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=RentoYabuki06&show_icons=true&theme=default&hide=contribs&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RentoYabuki06&layout=compact&langs_count=6&hide=html,css)
