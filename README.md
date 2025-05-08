@@ -89,9 +89,11 @@ I am particularly interested in computational biology, statistical learning, and
 
 | プロジェクト名 | 説明 | 技術スタック | Progress | リンク |
 |----------------|------|-----------------------------|----------|--------|
+| 🧮 AtCoder  | Competitive programming using C++ on AtCoder. Highest : **898 (Green)** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![AtCoder](https://img.shields.io/badge/AtCoder-1f8acb?style=flat&logo=data&logoColor=white) | ✅ | [AtCoder](https://atcoder.jp/users/yabukin) [Github](https://github.com/RentoYabuki06/atcoder) |
 | 🗺️ Send-Off Map App | 指定住所から送迎ルートを自動で決定し、Google Mapsに表示 | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=flat&logo=awsamplify&logoColor=white) | ✅ | [GitHub](https://github.com/RentoYabuki06/sendoff-map-app) |
 | 🤖 Discord Bot | Discordで動作する自作Bot | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Discord](https://img.shields.io/badge/Discord.js-5865F2?style=flat&logo=discord&logoColor=white) | ✅ | [GitHub](https://github.com/RentoYabuki06/discord-bot) |
 | 📊 Word2Vec Reimplementation | Word2Vecを論文ベースで再実装し語彙意味解析を学ぶ | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) | 📌 | [GitHub](https://github.com/RentoYabuki06/word2vec-reimplementation) |
+
 
 
 # 🏫 42Tokyo Projects
@@ -110,7 +112,7 @@ I am particularly interested in computational biology, statistical learning, and
 
 ## 🧠 42tokyo - C++ Projects
 
-| モジュール | 内容 | 技術スタック | Progress | GitHubリンク |
+| プロジェクト名 | 内容 | 技術スタック | Progress | GitHubリンク |
 |-----------|------|-----------------------------|----------|--------------|
 | 🧠 CPP Module 00 | OOP基礎・クラスとインスタンス | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) | ✅ | [GitHub](https://github.com/RentoYabuki06/cpp_module_00) |
 | 🧠 CPP Module 01 | メモリ管理・参照とポインタ | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) | ✅ | [GitHub](https://github.com/RentoYabuki06/cpp_module_01) |
