@@ -1,3 +1,4 @@
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RentoYabuki06&theme=default)
 # 🧪 Rento Yabuki — Profile
 
 I am a software developer with a research background in chemistry and a growing interest in computational biology and artificial intelligence (AI).
@@ -134,17 +135,3 @@ I am particularly interested in computational biology, statistical learning, and
 ![Rento Yabuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=RentoYabuki06&show_icons=true&theme=default&hide=contribs&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RentoYabuki06&layout=compact&langs_count=6&hide=html,css)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RentoYabuki06&theme=default)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RentoYabuki06&theme=default)
-![GitHub Metrics](https://metrics.lecoq.io/RentoYabuki06?template=classic&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FTokyo)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RentoYabuki06&theme=default&no-frame=true&row=1&column=7&margin-w=5&margin-h=5&no-bg=true)
-![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=RentoYabuki06&theme=default&hide_border=true&area=true)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/RentoYabuki06/RentoYabuki06?style=flat&logo=github&logoColor=white)
-![GitHub Followers](https://img.shields.io/github/followers/RentoYabuki06?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/RentoYabuki06?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/RentoYabuki06?style=social)
-![GitHub Issues](https://img.shields.io/github/issues/RentoYabuki06/RentoYabuki06?style=social)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/RentoYabuki06/RentoYabuki06?style=social)
-![GitHub Commits](https://img.shields.io/github/commit-activity/m/RentoYabuki06/RentoYabuki06?style=social)
-![GitHub Commits](https://img.shields.io/github/commit-activity/y/RentoYabuki06/RentoYabuki06?style=social)
