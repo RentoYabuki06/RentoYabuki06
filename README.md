@@ -1,3 +1,86 @@
+# 🧪 Rento Yabuki — Profile
+
+I am a software developer with a research background in chemistry and a growing interest in computational biology and artificial intelligence (AI).
+My academic journey began with a B.Sc. in Applied Chemistry at Osaka University, followed by an M.Sc. program at the University of Tokyo, where I spent one year conducting experimental research on catalytic reactions using polyoxometalate-modified metal nanoparticles.
+Afterward, I took a leave of absence to reassess my academic and career direction.
+
+I am currently studying computer science at 42Tokyo, a peer-based, project-driven curriculum that is equivalent to a French RNCP Level 7 master’s degree.
+There, I focus on low-level systems programming (C/C++), Linux internals, and modern software architecture through practical, self-directed learning.
+
+I am particularly interested in computational biology, statistical learning, and the application of machine learning techniques to the life sciences.
+
+
+
+---
+
+## 🧠 Research & Technical Interests
+
+- Low-level systems programming (UNIX, shell, POSIX APIs)
+- C/C++ development with a focus on memory and process control
+- Data-driven biological modeling (transcriptomics, omics integration)
+- Machine learning in scientific applications (Python, scikit-learn, PyTorch)
+- AI and systems for intelligent agent interaction
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-89e051?style=flat&logo=gnu-bash&logoColor=black)
+
+### Libraries & Tools
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 📚 Education
+
+- **M.Sc. in Computer Science**, 42Tokyo  
+  _Peer-to-peer, project-based software engineering curriculum  
+  (equivalent to a French RNCP Level 7 master's degree)_  
+  `2024.4 – Present`
+
+- **M.Sc. in Applied Chemistry**, University of Tokyo  
+  _Research area: Development of catalytic reactions using polyoxometalate-modified metal nanoparticles_  
+  _Status: On leave of absence after one year of research_  
+  _Laboratory: [Yamaguchi Laboratory](https://park.itc.u-tokyo.ac.jp/yamaguchi/), Department of Applied Chemistry, Graduate School of Engineering_  
+  `2023.4 – Present`
+
+- **B.Sc. in Applied Chemistry**, Osaka University  
+  _Thesis: Development of free-standing carbon nanotube membranes with immobilized gold nanoparticles_  
+  _Laboratory: [Sakurai Laboratory](https://www-chem.eng.osaka-u.ac.jp/~sakurai-lab/), Department of Applied Chemistry, Graduate School of Engineering_  
+  `2019.4 – 2023.3`
+
+---
+
+## 🔍 Current Focus Areas
+
+- 🌐 Building a lightweight HTTP web server in C++
+- 🧠 Exploring C++ design patterns and STL internals
+- 🧬 Applying machine learning to biological data modeling
+
+---
+
+## 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/%E6%BE%AA%E6%96%97-%E7%9F%A2%E5%90%B9-773892270/)
+- [Website / CV](https://rentoyabuki06.github.io/cv/)
+
+
 # 🏫 My 42Tokyo Projects
 
 ## C Projects
