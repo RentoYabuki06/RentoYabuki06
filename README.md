@@ -1,6 +1,8 @@
 # 🔥 Motivation
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RentoYabuki06&theme=tokyonight&hide_border=true)
 
+[![Rento's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RentoYabuki06&theme=react-dark)](https://github.com/RentoYabuki06/github-readme-activity-graph)
+
 # 🧪 Rento Yabuki — Profile
 
 I am a software developer with a research background in chemistry and a growing interest in computational biology and artificial intelligence (AI).
