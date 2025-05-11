@@ -65,7 +65,7 @@ I am particularly interested in computational biology, statistical learning, and
   _Laboratory: [Yamaguchi Laboratory](https://park.itc.u-tokyo.ac.jp/yamaguchi/), Department of Applied Chemistry, Graduate School of Engineering_  
   `2023.4 – Present`
 
-- **B.Sc. in Applied Chemistry**, Osaka University  
+- **B.Sc. in Applied Chemistry**, Universtity of Osaka  
   _Thesis: Development of free-standing carbon nanotube membranes with immobilized gold nanoparticles_  
   _Laboratory: [Sakurai Laboratory](https://www-chem.eng.osaka-u.ac.jp/~sakurai-lab/), Department of Applied Chemistry, Graduate School of Engineering_  
   `2019.4 – 2023.3`
