@@ -145,4 +145,11 @@ I am particularly interested in computational biology, statistical learning, and
 | 🌐 Webserv | NginxライクなHTTPサーバをC++などで構築 | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![HTTP](https://img.shields.io/badge/HTTP-121011?style=flat&logo=httpie&logoColor=white) ![CGI](https://img.shields.io/badge/CGI-000000?style=flat) | 🛠️ | [Github](https://github.com/RentoYabuki06/webserve) |
 | 🧮 ft_irc | IRCサーバの実装 | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Sockets](https://img.shields.io/badge/Sockets-808080?style=flat) | 🛠️ | Coming soon... |
 | 🔐 ft_transcendence | フルスタックWebアプリ開発 (卒業制作) | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![TypeORM](https://img.shields.io/badge/TypeORM-6364FF?style=flat) ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat) | 📌 | Coming soon... |
----
+
+
+## 💡 42tokyo - Rush Projects
+| プロジェクト名 | 説明 | 技術スタック | Progress | GitHubリンク |
+|----------------|------|-----------------------------|----------|--------------|
+| 🧪 Libunit | CプロジェクトのためのUnitテストフレームワーク | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![Testing](https://img.shields.io/badge/Testing-31A8FF?style=flat) | ✅ | [GitHub](https://github.com/RentoYabuki06/Libunit_test_framework) |
+
+----
