@@ -87,7 +87,15 @@ I am particularly interested in computational biology, statistical learning, and
 
 
 
-# 🚀 Personal Projects
+# 💻 Personal Projects
+## 🚀 Focused Projects
+
+| プロジェクト名 | 説明 | 技術スタック | Progress | リンク |
+|----------------|------|-----------------------------|----------|--------|
+| 🧬 Biology Quiz App | 生物学の学習をサポートするクイズアプリケーション | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) | 🛠️ | [GitHub](https://github.com/RentoYabuki06/biology_quiz_app) [Demo](https://biology-quiz-app.vercel.app) |
+
+## 📁 Other Projects
+
 
 | プロジェクト名 | 説明 | 技術スタック | Progress | リンク |
 |----------------|------|-----------------------------|----------|--------|
