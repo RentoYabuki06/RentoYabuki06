@@ -138,8 +138,8 @@ I am particularly interested in computational biology, statistical learning, and
 | 🧠 CPP Module 03 | ポリモーフィズム②・演算子オーバーロード | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) | ✅ | [GitHub](https://github.com/RentoYabuki06/cpp_module_03) |
 | 🧠 CPP Module 04 | 抽象クラス・インターフェース設計 | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) | ✅ | [GitHub](https://github.com/RentoYabuki06/cpp_module_04) |
 | 🧠 CPP Module 05 | 例外処理 | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) | ✅ | [GitHub](https://github.com/RentoYabuki06/cpp_module_05) |
-| 🧠 CPP Module 06 | 型変換とキャスト | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) | 🛠️ | [GitHub](https://github.com/RentoYabuki06/cpp_module_06) |
-| 🧠 CPP Module 07 | テンプレートプログラミング | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) | 📌 | [GitHub](https://github.com/RentoYabuki06/cpp_module_07) |
+| 🧠 CPP Module 06 | 型変換とキャスト | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) | ✅ | [GitHub](https://github.com/RentoYabuki06/cpp_module_06) |
+| 🧠 CPP Module 07 | テンプレートプログラミング | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) | 🛠️ | [GitHub](https://github.com/RentoYabuki06/cpp_module_07) |
 | 🧠 CPP Module 08 | コンテナとイテレータ | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) | 📌 | [GitHub](https://github.com/RentoYabuki06/cpp_module_08) |
 | 🧠 CPP Module 09 | 多相性の実践と汎用性の高い設計 | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) | 📌 | [GitHub](https://github.com/RentoYabuki06/cpp_module_09) |
 
