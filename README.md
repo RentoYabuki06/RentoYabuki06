@@ -128,7 +128,7 @@ I am particularly interested in computational biology, statistical learning, and
 | 🌍 cub3D | Raycastingによる3Dゲームの実装 | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![Graphics](https://img.shields.io/badge/Graphics-000000?style=flat&logo=openGL&logoColor=white) | ✅ | [GitHub](https://github.com/karen-kac/cub3D) |
 | 📶 Philosophers | マルチスレッドと排他制御の演習 | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![Threads](https://img.shields.io/badge/Pthreads-555555?style=flat) | ✅ | [Github](https://github.com/RentoYabuki06/philosopher_problem) |
 
-## 🧠 42tokyo - C++ Projects
+## 🧠 42tokyo - C++ Projects（Temporary Private）
 
 | プロジェクト名 | 内容 | 技術スタック | Progress | GitHubリンク |
 |-----------|------|-----------------------------|----------|--------------|
